@@ -1,0 +1,1 @@
+This Python code simulates the behavior of a cache line. It provides a basic cache simulation with support for a specified cache size, line size, associativity, and input file containing hexadecimal memory addresses.
